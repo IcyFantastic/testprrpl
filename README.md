@@ -4,4 +4,4 @@ ini branch utama
 
 ini branch ke-2
 
-konlik woi
+konflik woi
